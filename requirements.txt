@@ -1,0 +1,6 @@
+flake8==3.9.2
+flake8-docstrings==1.6.0
+pandas==1.5.2
+pytest==6.2.5
+python-dotenv==0.21.0
+python-telegram-bot==13.15

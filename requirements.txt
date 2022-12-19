@@ -4,4 +4,4 @@ openpyxl==3.0.10
 pandas==1.5.2
 pytest==6.2.5
 python-dotenv==0.21.0
-python-telegram-bot==13.15lj
+python-telegram-bot==13.15

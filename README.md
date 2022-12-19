@@ -15,7 +15,7 @@
 ### Технологии
 - Python 3.9
 - python-telegram-bot 13.15
-- pandas 1.5.2
+- Pandas 1.5.2
 - SQLite
 
 ### Как запустить проект:
